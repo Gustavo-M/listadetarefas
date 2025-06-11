@@ -1,1 +1,1 @@
-Projeto criado no curso de fundamentos de Nodejs da Rockectseat.
+Projeto criado no curso de fundamentos de Nodejs da Rocketseat.
